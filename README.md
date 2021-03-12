@@ -4,13 +4,13 @@ This repo includes many simple implementations of Point Cloud Processing methods
 
 1. I/O
 2. Processing
- - Filter
- - Segmentation
- - Rigistration
- - [ ] Feature Extraction
- - [ ] Keypoints
+   - Filter
+   - Segmentation
+   - Rigistration
+   -  [ ] Feature Extraction
+   -  [ ] Keypoints
 3.  DNN
-4. [ ] Visualization
+[ ]4. Visualization
 
 ## How To Use
 
