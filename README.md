@@ -4,6 +4,7 @@ This repo includes many simple implementations of Point Cloud Processing methods
 
 1. I/O
 2. Processing
+   - kdTree
    - Filter
    - Segmentation
    - Rigistration
